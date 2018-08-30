@@ -1,19 +1,19 @@
 /* defauly.css */
 body {
- background-color: #333300;
  color: #FFFFFF;
 }
 h1 {
- color: #FFFF33;
+ color: #ffcdd2;
  text-align: center;
  font-family: 'Lato', sans-serif;
 }
 p {
- background-color: #FFFF33;
- color: #333300;
+ color: #ffcdd2;
  text-align: right;
  border: 3px groove #FFFF33;
 }
 .button {
   font-family: 'Roboto Condensed', sans-serif;
+  color: #ffcdd2;
+  text-align: center;
 }
