@@ -1,7 +1,11 @@
-/* default.css */
+/* defauly.css */
 body {
  color: #FFFFFF;
 }
+html {
+  background: #BBDEFB;
+}
+
 h1 {
  color: #ffcdd2;
  text-align: center;
