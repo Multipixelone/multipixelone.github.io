@@ -1,8 +1,9 @@
-/* defauly.css */
+/* default.css */
 body {
- background:
-  background-color: #00000;
  color: #FFFFFF;
+}
+html {
+ background: #00000;
 }
 h1 {
  color: #fffff;
