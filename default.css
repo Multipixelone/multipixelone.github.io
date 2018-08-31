@@ -3,21 +3,21 @@ body {
  color: #FFFFFF;
 }
 html {
-  background: #BBDEFB;
+  background: #0000;
 }
 
 h1 {
- color: #ffcdd2;
+ color: #fffff;
  text-align: center;
  font-family: 'Lato', sans-serif;
 }
 p {
- color: #ffcdd2;
+ color: #fffff;
  text-align: right;
  border: 3px groove #FFFF33;
 }
 .button {
   font-family: 'Roboto Condensed', sans-serif;
-  color: #ffcdd2;
+  color: #fffff;
   text-align: center;
 }
