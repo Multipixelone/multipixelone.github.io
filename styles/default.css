@@ -2,24 +2,29 @@
 body {
   background-image: url("../images/background.jpg");
 }
+
 html {
   font-size: 150%
 }
+
 h1 {
   color: black;
   font-family: 'Oswald', sans-serif;
   font-size: 50px;
   line-height: 0px;
 }
+
 h2 {
   color: grey;
   font-family: 'Oswald', sans-serif;
   line-height: 25px;
 }
+
 div {
   text-align: center;
   float: right;
 }
+
 h3 {
   color: grey;
   font-family: 'Oswald', sans-serif;
@@ -27,27 +32,33 @@ h3 {
   margin-top: 30px;
   line-height: 0px;
 }
+
 ul {
   font-family: 'Roboto', sans-serif;
 }
+
 #header {
-  color:grey;
+  color: grey;
   font-family: 'Lato', sans-serif;
   margin-top: 0px;
 }
+
 p {
   font-family: 'Roboto', sans-serif;
   margin-bottom: 0px;
 }
+
 img {
   max-height: 500px;
   max-width: 500px;
 }
+
 i {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
 }
+
 #content {
   padding: 10px;
   background-color: #E0E0E0;
@@ -56,6 +67,7 @@ i {
   margin: 10px;
   border-radius: 5px;
 }
+
 table, th, td {
   border: 2px solid black;
   border-collapse: collapse;
