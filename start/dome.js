@@ -50,7 +50,8 @@ var sites = {
 					"Github"				: "https://github.com/multipixelone",
 					"Twitter"				: "https://twitter.com/",
 					"Reddit"				: "https://reddit.com/",
-					"Amazon"				: "https://amazon.com/"
+					"Amazon"				: "https://amazon.com/",
+					"Pushbullet" : "https://www.pushbullet.com"
 				},
 				"Games": { // To find the game ID check the url in the store page or the community page
 					"Monster Hunter World" : "steam://run/582010",
