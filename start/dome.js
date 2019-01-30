@@ -53,12 +53,13 @@ var sites = {
 					"Amazon"				: "https://amazon.com/"
 				},
 				"Games": { // To find the game ID check the url in the store page or the community page
-					"CS:GO"					: "steam://run/730",
-					"Besiege"				: "steam://run/346010",
-					"Rust"					: "steam://run/252490",
-					"Insurgency"			: "steam://run/222880",
-					"West of Loathing"		: "steam://run/597220",
-					"POSTAL 2"				: "steam://run/223470"
+					"Monster Hunter World" : "steam://run/582010",
+					"Cities Skylines" : "steam://run/255710",
+					"Mark of the Ninja" : "steam://run/860950",
+					"Space Engineers" : "steam://run/244850",
+					"Sunset Overdrive" : "steam://run/847370",
+					"XCOM 2" : "steam://run/268500",
+					"Factorio" : "steam://run/427520"
 				},
 				"Streaming": {
 					"Netflix" : "https://www.netflix.com",
