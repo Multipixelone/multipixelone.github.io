@@ -36,7 +36,8 @@ var sites = {
 				"School": {
 					"Google Drive" : "https://drive.google.com",
 					"Canvas" : "https://bsd.instructure.com",
-					"Bell Schedule" : "https://www.beaverton.k12.or.us/schools/southridge/calendar/Pages/Bell-Schedule.aspx"
+					"Gmail" : "https://mail.google.com",
+                    "Bell Schedule" : "https://www.beaverton.k12.or.us/schools/southridge/calendar/Pages/Bell-Schedule.aspx"
 				},
 				"Intranet": {
 					"ESXi" : "https://192.168.123.43/ui/#/host",
