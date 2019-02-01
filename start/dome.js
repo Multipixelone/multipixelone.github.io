@@ -37,16 +37,18 @@ var sites = {
 					"Google Drive" : "https://drive.google.com",
 					"Canvas" : "https://bsd.instructure.com",
 					"Gmail" : "https://mail.google.com",
-                    "Bell Schedule" : "https://www.beaverton.k12.or.us/schools/southridge/calendar/Pages/Bell-Schedule.aspx"
+          "Bell Schedule" : "https://www.beaverton.k12.or.us/schools/southridge/calendar/Pages/Bell-Schedule.aspx"
 				},
 				"Intranet": {
 					"ESXi" : "https://192.168.123.43/ui/#/host",
+					"Router" : "http://192.168.123.250/Main_Login.asp",
 					"Plex (Local)" : "https://192.168.123.123:32400",
 					"Local Syncthing" : "http://localhost:8384",
 					"Falcon Syncthing" : "http://192.168.123.123:8384",
 					"Sonarr (TV)" : "http://192.168.123.123:8989",
 					"Radarr (Movies)" : "http://192.168.123.123:7878",
 					"QBittorrent" : "http://192.168.123.123:8080"
+
 				},
 				"Social": {
 					"Github"				: "https://github.com/multipixelone",
