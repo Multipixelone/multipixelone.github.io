@@ -55,7 +55,8 @@ var sites = {
 					"Twitter"				: "https://twitter.com/",
 					"Reddit"				: "https://reddit.com/",
 					"Amazon"				: "https://amazon.com/",
-					"Pushbullet" : "https://www.pushbullet.com"
+					"Pushbullet" : "https://www.pushbullet.com",
+					"OneDrive" : "https://http://onedrive.live.com/"
 				},
 				"Games": { // To find the game ID check the url in the store page or the community page
 					"Monster Hunter World" : "steam://run/582010",
@@ -70,7 +71,14 @@ var sites = {
 					"Netflix" : "https://www.netflix.com",
 					"YouTube"				: "https://www.youtube.com/",
 					"Hulu" : "https://www.hulu.com",
+					"Spotify" : "https://open.spotify.com/collection/playlists",
 					"Plex (Remote)" : "https://plex.tv/web"
+				},
+				"Theater" {
+					"MusicNotes" : "https://www.musicnotes.com/",
+					"Production Calender" : "https://www.skyhawktheatre.com/copy-of-production-calendar",
+					"Rehearsal Sign-In" : "https://goo.gl/forms/BkgCeX7L0EoMLxMm2",
+					"Work Party Sign-In" : "https://goo.gl/forms/GFWNdG8sO15E3myx2"
 				}
 			};
 
