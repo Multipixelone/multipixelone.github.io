@@ -74,7 +74,7 @@ var sites = {
 					"Spotify" : "https://open.spotify.com/collection/playlists",
 					"Plex (Remote)" : "https://plex.tv/web"
 				},
-				"Theater" {
+				"Theater": {
 					"MusicNotes" : "https://www.musicnotes.com/",
 					"Production Calender" : "https://www.skyhawktheatre.com/copy-of-production-calendar",
 					"Rehearsal Sign-In" : "https://goo.gl/forms/BkgCeX7L0EoMLxMm2",
