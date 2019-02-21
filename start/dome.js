@@ -57,7 +57,7 @@ var sites = {
 					"Reddit"				: "https://reddit.com/",
 					"Amazon"				: "https://amazon.com/",
 					"Pushbullet" : "https://www.pushbullet.com",
-					"OneDrive" : "https://http://onedrive.live.com/"
+					"OneDrive" : "https://onedrive.live.com/"
 				},
 				"Games": { // To find the game ID check the url in the store page or the community page
 					"Monster Hunter World" : "steam://run/582010",
