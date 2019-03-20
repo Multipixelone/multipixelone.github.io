@@ -38,18 +38,20 @@ var sites = {
 					"Canvas" : "https://bsd.instructure.com",
 					"StudentVue" : "https://parentvue.beaverton.k12.or.us/PXP2_Login.aspx",
 					"Gmail" : "https://mail.google.com",
-          "Bell Schedule" : "https://www.beaverton.k12.or.us/schools/southridge/calendar/Pages/Bell-Schedule.aspx"
+                    "Bell Schedule" : "https://www.beaverton.k12.or.us/schools/southridge/calendar/Pages/Bell-Schedule.aspx"
 				},
 				"Intranet": {
-					"ESXi" : "https://192.168.123.43/ui/#/host",
+					"ESXi" : "https://vmware/ui/#/host",
 					"Router" : "http://192.168.123.250/Main_Login.asp",
-					"Plex (Local)" : "https://192.168.123.123:32400",
+					"Plex (Local)" : "https://falcom:32400",
 					"Local Syncthing" : "http://localhost:8384",
-					"Falcon Syncthing" : "http://192.168.123.123:8384",
-					"Sonarr (TV)" : "http://192.168.123.123:8989",
-					"Radarr (Movies)" : "http://192.168.123.123:7878",
-					"QBittorrent" : "http://192.168.123.123:8080"
-
+					"Falcon Syncthing" : "http://falcon:8384",
+					"Sonarr (TV)" : "http://falcon:8989",
+					"Radarr (Movies)" : "http://falcon:7878",
+					"QBittorrent" : "http://falcon:8080",
+                    "Gitea" : "http://hollandaise",
+                    "NextCloud" : "http://falcon:8080",
+                    "Portainer" : "http://falcon:9000"
 				},
 				"Social": {
 					"Github"				: "https://github.com/multipixelone",
