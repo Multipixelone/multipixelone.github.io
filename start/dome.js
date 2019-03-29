@@ -86,10 +86,11 @@ var sites = {
 			};
 
 var search = { // Query variable name is q, hardcoded, looks like a standard already anyways
-				"default": "https://google.com/search",
+				"default": "https://duckduckgo.com",
 				"d": "https://duckduckgo.com/",
 				"s": "https://startpage.com/do/search",
-				"r": "https://reddit.com/search"
+				"r": "https://reddit.com/search",
+                "g": "https://google.com/search"
 			};
 
 // ---------- BUILD PAGE ----------
