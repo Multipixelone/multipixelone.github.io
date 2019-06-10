@@ -49,7 +49,7 @@ var sites = {
 					"Falcon Syncthing" 	: "http://falcon:8384",
 					"Sonarr (TV)" 			: "http://falcon:8989",
 					"Radarr (Movies)" 	: "http://falcon:7878",
-					"QBittorrent" 			: "http://falcon:8080",
+					"QBittorrent" 			: "http://falcon:8181",
           "NextCloud" 				: "http://falcon:8080",
         	"Portainer" 				: "http://falcon:9000"
 				},
