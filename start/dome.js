@@ -34,32 +34,32 @@
 // div.innerHTML : {a.innerHTML : a.href}
 var sites = {
 				"School": {
-					"Google Drive" : "https://drive.google.com",
-					"Canvas" : "https://bsd.instructure.com",
-					"StudentVue" : "https://parentvue.beaverton.k12.or.us/PXP2_Login.aspx",
-					"Gmail" : "https://mail.google.com",
-                    "Bell Schedule" : "https://www.beaverton.k12.or.us/schools/southridge/calendar/Pages/Bell-Schedule.aspx"
+					"Google Drive" 			: "https://drive.google.com",
+					"Canvas" 						: "https://bsd.instructure.com",
+					"StudentVue" 				: "https://parentvue.beaverton.k12.or.us/PXP2_Login.aspx",
+					"Gmail" 						: "https://mail.google.com",
+          "Bell Schedule" 		: "https://www.beaverton.k12.or.us/schools/southridge/calendar/Pages/Bell-Schedule.aspx"
 				},
 				"Intranet": {
-					"ESXi" : "https://vmware/ui/#/host",
-					"Router" : "http://192.168.123.250/Main_Login.asp",
-					"Plex (Local)" : "https://falcom:32400",
-					"Local Syncthing" : "http://localhost:8384",
-					"Falcon Syncthing" : "http://falcon:8384",
-					"Sonarr (TV)" : "http://falcon:8989",
-					"Radarr (Movies)" : "http://falcon:7878",
-					"QBittorrent" : "http://falcon:8080",
-                    "Gitea" : "http://hollandaise",
-                    "NextCloud" : "http://falcon:8080",
-                    "Portainer" : "http://falcon:9000"
+					"ESXi" 							: "https://vmware/ui/#/host",
+					"Router"				 		: "http://192.168.123.250/Main_Login.asp",
+					"Plex (Local)" 			: "https://falcom:32400",
+					"Gitea" 						: "http://hollandaise",
+					"Local Syncthing" 	: "http://localhost:8384",
+					"Falcon Syncthing" 	: "http://falcon:8384",
+					"Sonarr (TV)" 			: "http://falcon:8989",
+					"Radarr (Movies)" 	: "http://falcon:7878",
+					"QBittorrent" 			: "http://falcon:8080",
+          "NextCloud" 				: "http://falcon:8080",
+        	"Portainer" 				: "http://falcon:9000"
 				},
 				"Social": {
-					"Github"				: "https://github.com/multipixelone",
-					"Twitter"				: "https://twitter.com/",
-					"Reddit"				: "https://reddit.com/",
-					"Amazon"				: "https://amazon.com/",
-					"Pushbullet" : "https://www.pushbullet.com",
-					"OneDrive" : "https://onedrive.live.com/"
+					"Github"						: "https://github.com/multipixelone",
+					"Twitter"						: "https://twitter.com/",
+					"Reddit"						: "https://reddit.com/",
+					"Amazon"						: "https://amazon.com/",
+					"Pushbullet" 				: "https://www.pushbullet.com",
+					"OneDrive" 					: "https://onedrive.live.com/"
 				},
 				"Games": { // To find the game ID check the url in the store page or the community page
 					"Monster Hunter World" : "steam://run/582010",
